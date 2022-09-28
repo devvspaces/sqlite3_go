@@ -1,0 +1,9 @@
+mode: set
+github.com/sqlite/main.go:3.19,5.2 1 1
+github.com/sqlite/main.go:7.19,9.2 1 0
+github.com/sqlite/main.go:11.27,12.16 1 1
+github.com/sqlite/main.go:16.2,16.16 1 1
+github.com/sqlite/main.go:20.2,20.18 1 1
+github.com/sqlite/main.go:12.16,14.3 1 0
+github.com/sqlite/main.go:16.16,18.3 1 1
+github.com/sqlite/main.go:23.14,23.15 0 0
